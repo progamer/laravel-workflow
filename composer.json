@@ -6,7 +6,7 @@
     "require": {
         "php": ">=5.5.9",
         "symfony/workflow": "^3.3 || ^4.0",
-        "symfony/process": "^3.3 || ^4.0",
+        "symfony/process": "^3.3 || ^4.0 || v5.3.2",
         "symfony/event-dispatcher": "^3.3 || ^4.0",
         "illuminate/console": "5.3.* || 5.4.* || 5.5.* || 5.6.* || 5.7.* || 5.8.* || 6.*",
         "illuminate/support": "5.3.* || 5.4.* || 5.5.* || 5.6.* || 5.7.* || 5.8.* || 6.*"
